@@ -1,0 +1,5 @@
+API QURAN 1 (untuk bacaan surah) = https://quranenc.com/api/v1/translation/sura/indonesian_sabiq/1
+
+API QURAN 2 (untuk list surah) = https://api.alquran.cloud/v1/quran
+
+LINK UI REFERENSI = https://dribbble.com/shots/21068681-Ngajii-Quran-Application
